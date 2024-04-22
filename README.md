@@ -116,9 +116,10 @@
 
 
 ### - Ned Flanders
+![alt text](graphs_files/3_emotions_appareance/character_analisis/117_ned_flanders_corr.png)
 ![alt text](graphs_files/3_emotions_appareance/character_analisis/118_ned_flanders_ridge.png)
 
-![alt text](graphs_files/3_emotions_appareance/character_analisis/119_homer_simpson_corr.png) 
+
 
 #### In the case of Ned Flanders, it underwent something known as 'Flanderization.' Initially, he was a kind neighbor, and over time they started to exaggerate characteristics like becoming extremely naive or overly charitable or disapproving of several things. The big step was when his wife died in season 11; by that time, Neddy had already taken this path.
 ![alt text](images/image-11.png)
@@ -140,6 +141,7 @@
 
 
 #### Similar thing happened when we talk about 'Flanderization.' At first, he was the evil boss of Homer, but over time, we lost that characteristic, exaggerating the grief attitude, but furthermore, their sadness and starting to make jokes and laugh about how old and grief he is.
+![alt text](images/image-18.png)
 ![alt text](images/image-15.png)
 
 
